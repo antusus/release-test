@@ -9,11 +9,17 @@
 
     <build>
         <plugins>
+            <!--<plugin>-->
+                <!--<groupId>com.amashchenko.maven.plugin</groupId>-->
+                <!--<artifactId>gitflow-maven-plugin</artifactId>-->
+                <!--<version>1.0.1-alpha2</version>-->
+            <!--</plugin>-->
             <plugin>
-                <groupId>com.amashchenko.maven.plugin</groupId>
-                <artifactId>gitflow-maven-plugin</artifactId>
-                <version>1.0.1-alpha2</version>
+                <groupId>external.atlassian.jgitflow</groupId>
+                <artifactId>jgitflow-maven-plugin</artifactId>
+                <version>1.0-m2</version>
             </plugin>
+
         </plugins>
     </build>
 
