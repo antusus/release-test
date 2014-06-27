@@ -12,7 +12,7 @@
             <plugin>
                 <groupId>com.amashchenko.maven.plugin</groupId>
                 <artifactId>gitflow-maven-plugin</artifactId>
-                <version>1.0.1-alpha2-nfon</version>
+                <version>1.0.1-alpha3-SNAPSHOT</version>
             </plugin>
         </plugins>
     </build>
